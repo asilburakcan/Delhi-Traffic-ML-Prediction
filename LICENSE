@@ -1,0 +1,59 @@
+MIT License
+
+Copyright (c) 2026 Delhi Traffic Prediction Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ADDITIONAL TERMS:
+
+1. DATA SOURCE ATTRIBUTION
+   The dataset used in this project is sourced from Kaggle. Users of this 
+   software must comply with Kaggle's Terms of Use and properly attribute 
+   the original dataset creators when using or distributing the data.
+
+2. EDUCATIONAL PURPOSE
+   This software is primarily intended for educational and learning purposes.
+   While the code is free to use, the authors make no guarantees about the
+   accuracy of traffic predictions for real-world applications.
+
+3. EXTERNAL DEPENDENCIES
+   This software relies on third-party libraries including but not limited to:
+   - pandas (BSD 3-Clause License)
+   - numpy (BSD License)
+   - scikit-learn (BSD 3-Clause License)
+   - statsmodels (BSD License)
+   
+   Users must comply with the respective licenses of these dependencies.
+
+4. NO WARRANTY FOR PRODUCTION USE
+   While this software can be modified and used in production environments,
+   the authors provide no warranty regarding its suitability for critical
+   systems or real-time traffic management applications.
+
+5. COMMERCIAL USE
+   Commercial use is permitted under this license, but users are encouraged
+   to validate the model's performance with their own data and use cases
+   before deploying in production environments.
+
+---
+
+For questions or concerns about this license, please open an issue in the
+project repository.
