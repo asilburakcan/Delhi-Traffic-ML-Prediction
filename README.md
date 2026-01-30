@@ -290,7 +290,7 @@ Basitçe söylemek gerekirse: Elimizdeki verilerle (mesafe, hava durumu, saat, y
 
 Örneğin: "15 km'lik bir yol, yağmurlu havada, sabah yoğun saatlerinde, ana yoldan gidilecek" dediğimizde model bize "Bu durumda trafik muhtemelen HIGH (yoğun) olacak" diyor.
 
-## 📂 Dosyalar
+## Dosyalar
 
 Projede 3 ana Python dosyası var:
 
@@ -503,7 +503,7 @@ Eğer eğitim verisi üzerinde çok başarılı ama test verisinde kötüyse →
    # Aynı sırada kolonları düzenle. burada çok sorun yaşamıştım
    new_trip = new_trip[X_train.columns]
    ```
-   Bu ÇOOK önemli! Yoksa model hata verir.
+  
 
 ## Öğrenme Kaynakları
 
