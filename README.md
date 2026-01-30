@@ -503,7 +503,7 @@ Eğer eğitim verisi üzerinde çok başarılı ama test verisinde kötüyse →
    # Aynı sırada kolonları düzenle. burada çok sorun yaşamıştım
    new_trip = new_trip[X_train.columns]
    ```
-   Bu ÇOOK önemli! Yoksa model hata verir.
+  
 
 ## Öğrenme Kaynakları
 
