@@ -290,7 +290,7 @@ Basitçe söylemek gerekirse: Elimizdeki verilerle (mesafe, hava durumu, saat, y
 
 Örneğin: "15 km'lik bir yol, yağmurlu havada, sabah yoğun saatlerinde, ana yoldan gidilecek" dediğimizde model bize "Bu durumda trafik muhtemelen HIGH (yoğun) olacak" diyor.
 
-## 📂 Dosyalar
+## Dosyalar
 
 Projede 3 ana Python dosyası var:
 
