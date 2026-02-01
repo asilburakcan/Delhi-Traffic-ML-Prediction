@@ -95,12 +95,12 @@ If the difference between train and test accuracy is more than 10%, it gives a w
 **Example usage:**
 ```python
 new_trip = pd.DataFrame({
-    'distance_km': [15.5],              # 15.5 km road
-    'average_speed_kmph': [25.0],       # Average 25 km/h speed
-    'weather_condition': ['Rain'],      # Rainy weather
-    'time_of_day': ['Morning Peak'],    # Morning peak time
-    'day_of_week': ['Weekday'],         # Weekday
-    'road_type': ['Main Road']          # Main road
+    'distance_km': [15.5],              
+    'average_speed_kmph': [25.0],       
+    'weather_condition': ['Rain'],      
+    'time_of_day': ['Morning Peak'],    
+    'day_of_week': ['Weekday'],         
+    'road_type': ['Main Road']          
 })
 ```
 
